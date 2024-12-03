@@ -132,7 +132,7 @@
    - We stayed neutral throughout, offering respectful and thoughtful criticism when necessary and meeting in the middle for disagreements.
    - Divided responsibilities for slide creation and research.
 
-—
+---
 
 ## Generative AI Summary
 
